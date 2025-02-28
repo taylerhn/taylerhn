@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I am Tayler 👋
 I am an aspiring professional, interested in the intersection of Software Development and Business!
 
 <!--
