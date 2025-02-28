@@ -1,5 +1,6 @@
 ## Hi there! My name is Tayler 👋
-I am an aspiring professional, interested in the intersection of Software Development and Business!
+🌱 I'm currently an Electrical Engineering & Computer Sciences (EECS) student at UC Berkeley.
+😄 I'm an aspiring professional, interested in the intersection of Software Development and Business!
 
 <!--
 **taylerhn/taylerhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
