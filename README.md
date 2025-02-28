@@ -1,4 +1,4 @@
-## Hi there! My name is Tayler <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! My name is Tayler.
 
  - 🌱 I'm currently an Electrical Engineering & Computer Sciences (EECS) student at UC Berkeley.
  - 😄 I'm interested in the intersection of Software Development and Business!
