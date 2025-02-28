@@ -1,6 +1,7 @@
 ## Hi there! My name is Tayler 👋
  - 🌱 I'm currently an Electrical Engineering & Computer Sciences (EECS) student at UC Berkeley.
- - 😄 I'm nterested in the intersection of Software Development and Business!
+ - 😄 I'm interested in the intersection of Software Development and Business!
+ - 💬 Talk to me about photography, rock climbing, skiing, fishing, Morgan Wallen, EDM, hiking, badminton, mexican food, and sandwiches!
 
 <!--
 **taylerhn/taylerhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
