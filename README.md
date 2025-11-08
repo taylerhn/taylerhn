@@ -5,7 +5,7 @@ Hi there! My name is Tayler. <img src="https://media.giphy.com/media/hvRJCLFzcas
 - 🌱 I'm currently an Electrical Engineering & Computer Sciences (EECS) student at UC Berkeley.
 - 😄 I'm interested in Software Development!
 - 💬 Talk to me about photography, rock climbing, skiing, fishing, Morgan Wallen, EDM, hiking, badminton, and sandwiches!
-
+---
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayler@berkeley.edu)
