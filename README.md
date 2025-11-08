@@ -1,5 +1,4 @@
 <div align="center">
-    
 ## Hi there! My name is Tayler. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 </div>
